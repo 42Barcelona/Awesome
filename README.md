@@ -30,6 +30,7 @@ Awesome 42 Barcelona
 - [Slack](https://42born2code.slack.com)
 
 ### 42&U Tools
+- [Awesome 42 by leeoocca](https://github.com/leeoocca/awesome-42)
 - [OnWave](https://app.onwave.app/)
 - [42 vmontagn](https://42-beta.vmontagn.fr/)
 - [42 tbailleu - XP Calculator](https://42.tbailleu.dev/)
