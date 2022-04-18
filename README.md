@@ -37,3 +37,5 @@ Awesome 42 Barcelona
 - [42 on Android](https://play.google.com/store/apps/details?id=com.paulvarry.intra42&hl=fr&gl=US)
 - [VSCode Norminette](https://marketplace.visualstudio.com/items?itemName=MariusvanWijk-JoppeKoers.codam-norminette-3)
 - [VSCode Header 42](https://marketplace.visualstudio.com/items?itemName=kube.42header)
+- [Bistro 42](https://github.com/thdelmas/Bistro42) - Automated Virtualbox Linux VM creation
+- [42Playbooks](https://github.com/thdelmas/42Playbooks) - Use ansible to configure your linux for 42
